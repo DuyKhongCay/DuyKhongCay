@@ -30,4 +30,4 @@ Cost-optimized edge gateway firmware running on STM32F103 (ARM Cortex-M3) design
 
 ### 📬 Connect with me
 * **GitHub:** [@DuyKhongCay](https://github.com/DuyKhongCay)
-* **Email / LinkedIn:** *(Điền thông tin liên hệ của bạn)*
+* * **Email:** [nguyendangduy7112003@gmail.com](mailto:nguyendangduy7112003@gmail.com)
